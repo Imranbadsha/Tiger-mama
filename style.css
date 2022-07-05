@@ -1,0 +1,158 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+
+.first-div {
+    display: flex;
+    margin-top: 20px;
+    background-image: url(image/1.jpg);
+    
+    
+}
+
+.first-div h1 {
+    font-size: 80px;
+    color: rgb(90, 85, 85);
+}
+
+.first-div p {
+    font-size: 20px;
+    color: rgb(90, 85, 85);
+}
+
+.first-div-child {
+    padding-left: 50px;
+    margin-left: 40px;
+    padding-top: 50px;
+    margin-top: 80px;
+}
+
+.orange-text {
+    color: orange;
+}
+
+.button {
+    font-size: 30px;
+    font-weight: 400;
+    text-decoration: none;
+    padding: 15px 30px;
+    background-image: linear-gradient(orange, tomato);
+    color: aliceblue;
+    border-radius: 35px;
+}
+
+.first-div-sec {
+    background-image: url(images/food/Project\ Cover.jpg);
+    background-repeat: no-repeat;
+
+}
+
+#hero {
+    width: 100%;
+}
+
+.second {
+    display: flex;
+    padding-top: 50px;
+    margin-top: 50px;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    padding-left: 80px;
+    margin-left: 80px;
+
+}
+
+#female {
+    width: 50%;
+}
+
+.second-sec-child {
+    width: 40%;
+    margin-right: 30%;
+}
+
+.header {
+    color: rgb(90, 85, 85);
+    font-size: 60px;
+}
+
+.para {
+    font-size: 25px;
+}
+
+.thired {
+    text-align: center;
+}
+
+.three {
+    display: flex;
+    border: solid 5px white;
+    border-radius: 5px;
+}
+
+.three-common {
+    width: 50%;
+    padding-left: 10px;
+    border: solid 10px white;
+    margin: 10px;
+    padding-right: 10px;
+    border: solid 50px whitesmoke;
+    border-radius: 60px;
+
+}
+
+.pic {
+    width: 100%;
+}
+
+.thired-header {
+    font-size: 50px;
+}
+
+.para2 {
+    font-size: 40px;
+}
+
+.box-header {
+    font-size: 100px;
+    text-align: center;
+    padding: 30px;
+    margin: 5px 40px;
+    margin-right: 30px;
+    padding-right: 30px;
+}
+
+.follower-box {
+    display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: solid 80px whitesmoke;
+    border-radius: 50px;
+
+
+}
+
+.box-para {
+    text-align: center;
+    font-size: 30px;
+}
+
+.last {
+    text-align: center;
+    background-color: black;
+    margin-top: 5%;
+    height: 300px;
+    width: 100%;
+}
+
+.last h1 {
+    font-size: 70px;
+    color: gray;
+}
+
+.last p {
+    color: aliceblue;
+    font-size: larger;
+}
